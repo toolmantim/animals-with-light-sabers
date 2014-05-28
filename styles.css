@@ -1,0 +1,22 @@
+html {
+  font: 18px "Comic Sans MS", "Comic Sans", sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+html.cats    { background-color: rgb(23,60,10); }
+html.bears   { background-color: rgb(83,40,10); }
+html.turtles { background-color: rgb(10,60,80); }
+
+h1, p {
+  margin: 100px 0;
+}
+
+footer {
+  font-size: 14px;
+}
+
+footer a {
+  color: rgba(255,255,255,.1);
+}
